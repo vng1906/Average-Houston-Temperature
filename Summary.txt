@@ -1,0 +1,5 @@
+Use data to generate a report with informative charts.
+Identify cases when data needs to be visualized.
+Gather and export data to Microsoft Excel.
+Create charts using the data in Microsoft Excel.
+Generate a report using the data in Microsoft Excel.
